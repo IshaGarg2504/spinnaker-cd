@@ -128,4 +128,4 @@ Create a service within the application
 - Verify the service on `service cluster` and test
 
 ```
-kubectl get pods -n spinnaker
+kubectl get svc -n spinnaker
