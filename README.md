@@ -1,5 +1,9 @@
 # spinnaker-cd
 
+## Prerequisites
+- Azure Account
+- AKS Cluster setup
+
 ## Install with Halyard
 
 https://www.spinnaker.io/setup/install/halyard/#install-on-debianubuntu-and-macos
