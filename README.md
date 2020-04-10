@@ -1,4 +1,4 @@
-#@ spinnaker-cd
+# spinnaker-cd
 
 ## Prerequisites
 - Azure Account
